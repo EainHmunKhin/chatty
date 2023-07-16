@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70967452184",
+    "project_id": "instagram-clone-c2626",
+    "storage_bucket": "instagram-clone-c2626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70967452184:android:96b29a4a2bce0a487a596d",
+        "android_client_info": {
+          "package_name": "com.example.chatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NTrPJxBjP52CVgIoXy_KjcLYwR8pe2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
